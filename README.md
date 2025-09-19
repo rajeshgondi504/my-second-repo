@@ -1,2 +1,5 @@
 # my-second-repo
-student protel demo
+basic student portfolio
+attendance tracking system
+weekly test results
+semister results
